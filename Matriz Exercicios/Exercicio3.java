@@ -2,9 +2,6 @@ import javax.swing.JOptionPane;
 import java.util.Random;
 
 /**
- * Exercicio 3:
- * Crie uma matriz 3x3, preencha com números aleatórios, e imprima a diagonal principal.
- *//**
  * Exercicio 3 - Matriz
  *
  * Este programa cria uma matriz 3x3 com valores preenchidos aleatoriamente.
