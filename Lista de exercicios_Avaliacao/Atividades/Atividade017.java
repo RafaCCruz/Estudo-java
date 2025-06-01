@@ -6,7 +6,7 @@ public class Atividade017 {
         int tamanho = Integer.parseInt(JOptionPane.showInputDialog("Digite o tamanho do vetor:"));
 
         // Declaração de um vetor de tamanho especificado pelo usuário
-        int [] v = new int[tamanho]; // Declaração de um vetor de 10 elementos do tipo inteiro
+        int [] v = new int[tamanho]; // Declaração de um vetor
 
         // Preenchimento do vetor com números aleatórios de 1 a 10
         for (int i = 0; i < v.length; i++) {
